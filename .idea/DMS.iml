@@ -7,6 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/runs" />
       <excludeFolder url="file://$MODULE_DIR$/Archive" />
+      <excludeFolder url="file://$MODULE_DIR$/sample_tests" />
     </content>
     <orderEntry type="jdk" jdkName="ultra" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

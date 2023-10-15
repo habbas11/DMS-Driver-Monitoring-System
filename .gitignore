@@ -4,4 +4,4 @@ temp/
 venv/
 .idea/
 Archive/
-sample_tests/
+/sample_tests/
